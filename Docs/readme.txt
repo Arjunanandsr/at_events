@@ -35,3 +35,9 @@ Create the Schema
 php artisan migrate
 php artisan serve
 
+Invitee Login Link : 
+
+http://127.0.0.1:8001/invites-token/8Z3VA9Z3BHbljW
+
+We can login using this email and token also  Login :  newmail@gmail.com / 8Z3VA9Z3BHbljW 
+
